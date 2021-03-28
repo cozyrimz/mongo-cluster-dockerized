@@ -1,6 +1,7 @@
 # create a file named file.key to store a randomly genrated key
 
 'openssl rand -base64 700 > file.key'
+This will make a file.key key in the root folder
 
 # set file permissions
 
