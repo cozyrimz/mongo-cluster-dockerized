@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sleep 5
+sleep 4
 
 echo SETUP.sh time now: `date +"%T" `
 mongo --host mongo1:27017 <<EOF
